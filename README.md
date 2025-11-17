@@ -2,6 +2,7 @@
 
 This project is a small but complete machine learning experiment designed to predict **Zomato-style delivery times** using real-world features such as distance, weather, traffic conditions, and courier experience.  
 It follows the structure of a standard ML pipeline and focuses on learning, experimentation, and reflection.
+This is the Google Collab link :- https://colab.research.google.com/github/ShivangiP2005/delivery-time-ml/blob/main/notebooks/zomato_delivery.ipynb
 
 ---
 
